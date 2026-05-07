@@ -15,3 +15,7 @@ entrar.addEventListener("click", function(){
 document.getElementById("home").style.display = "none"
 
 document.getElementById("materias").style.display = "block"
+
+const materia = prompt("Digite uma matéria")
+
+alert("IA JOVIX identificou: " + materia)
