@@ -11,3 +11,7 @@ entrar.addEventListener("click", function(){
     }
 
 })
+
+document.getElementById("home").style.display = "none"
+
+document.getElementById("materias").style.display = "block"
