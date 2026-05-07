@@ -1,0 +1,10 @@
+# JOVIX
+
+Projeto desenvolvido para Sprint 2.
+
+Integrantes:
+Arthur Caram Fiorese Herrada Rm569578
+Matheus Medeiros da Cunha Rm572780
+Felipe Ricardo Moreira Aguiar Rm573410
+Gustavo Ferreira Silva Rm571675
+Matheus Sequeira Franco da Silva Rm571127
