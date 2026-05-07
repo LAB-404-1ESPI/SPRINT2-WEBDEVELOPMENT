@@ -41,3 +41,5 @@ setInterval(function(){
     slide.src = imagens[atual]
 
 }, 2000)
+
+alert("Resposta correta")
