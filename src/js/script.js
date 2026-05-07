@@ -19,3 +19,25 @@ document.getElementById("materias").style.display = "block"
 const materia = prompt("Digite uma matéria")
 
 alert("IA JOVIX identificou: " + materia)
+
+const slide = document.getElementById("slide")
+// exemplos de imagens
+let imagens = [
+    "img1.jpg",
+    "img2.jpg",
+    "img3.jpg"
+]
+
+let atual = 0
+
+setInterval(function(){
+
+    atual++
+
+    if(atual >= imagens.length){
+        atual = 0
+    }
+
+    slide.src = imagens[atual]
+
+}, 2000)
