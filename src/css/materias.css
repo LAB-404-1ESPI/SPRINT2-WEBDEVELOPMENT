@@ -20,7 +20,7 @@ body{
     height: 100vh;
 }
 
-#home{
+#materias{
     border: 2px solid var(--primary-color);
     padding: 50px;
     border-radius: 20px;
@@ -31,15 +31,7 @@ body{
     
 }
 
-#nome{
-    padding: 10px;
-    border-radius: 5px;
-    border: none;
-    margin-top: 20px;
-    font-size: 16px;
-}
-
-.entrar{
+#matematica, #historia, #geografia{
     background-color: var(--primary-color);
     color: var(--text-color);
     border: none;
@@ -50,9 +42,8 @@ body{
     font-size: 16px;
 }
 
-.entrar:hover{
+#matematica:hover, #historia:hover, #geografia:hover{
     background-color: var(--cor-hover);
     transition: all 0.2s ease;
     transform: translateY(-5px);
 }
-
